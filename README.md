@@ -185,7 +185,7 @@
 # TRACKER
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aman9554/Aman9554/output/github-contribution-grid-snake.svg" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman9554&theme=tokyonight" />
 </p>
 
 ---
