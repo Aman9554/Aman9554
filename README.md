@@ -178,7 +178,7 @@
 # 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aman9554/Aman9554/main/github-contribution-grid-snake.svg" />
+ <img src="https://raw.githubusercontent.com/Aman9554/Aman9554/main/github-contribution-grid-snake.svg" />
 </p>
 ---
 
